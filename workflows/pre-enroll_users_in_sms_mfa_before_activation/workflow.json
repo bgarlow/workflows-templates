@@ -1,0 +1,20 @@
+{
+  "name": "workflows/pre-enroll_users_in_sms_mfa_before_activation",
+  "title": "Pre-enroll users in SMS MFA before activation",
+  "description": "This flow can be used to automate SMS MFA enrollment for staged users to verify them before activation. The phone number can be pulled from AD/HR or sourced from Okta.",
+  "connectors": [],
+  "details": {
+    "flowCount": 0,
+    "stashCount": 0
+  },
+  "links": [
+    {
+      "title": "Video Walk-through",
+      "destination": ""
+    },
+    {
+      "title": "Setup Documentation",
+      "destination": ""
+    }
+  ]
+}
