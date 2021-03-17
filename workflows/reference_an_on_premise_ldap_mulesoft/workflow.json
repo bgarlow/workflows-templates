@@ -1,2 +1,22 @@
-json
-"{""name"":""workflows/reference_an_on_premise_ldap_mulesoft"",""title"":""Reference an on-premise LDAP Mulesoft"",""description"":""This is an example of how to connect Okta workflows to an on-premise LDAP directory with the purpose of referring to the directory in workflow calculation logic. This particular example leverages the Mulesoft Anypoint platform to achieve this integration."",""connectors"":[""httpfunctions""],""details"":{""stashCount"":0,""flowCount"":1},""links"":[{""title"":""Video Walk-through"",""destination"":""""},{""title"":""Setup Documentation"",""destination"":""https://github.com/okta/workflows-templates/blob/master/workflows/workflows/reference_an_on_premise_ldap_mulesoft/readme.md""}]}"
+{
+   "name":"workflows/reference_an_on_premise_ldap_mulesoft",
+   "title":"Reference an on-premise LDAP Mulesoft",
+   "description":"This is an example of how to connect Okta workflows to an on-premise LDAP directory with the purpose of referring to the directory in workflow calculation logic. This particular example leverages the Mulesoft Anypoint platform to achieve this integration.",
+   "connectors":[
+      "httpfunctions"
+   ],
+   "details":{
+      "stashCount":0,
+      "flowCount":1
+   },
+   "links":[
+      {
+         "title":"Video Walk-through",
+         "destination":""
+      },
+      {
+         "title":"Setup Documentation",
+         "destination":"https://github.com/okta/workflows-templates/blob/master/workflows/workflows/reference_an_on_premise_ldap_mulesoft/readme.md"
+      }
+   ]
+}
