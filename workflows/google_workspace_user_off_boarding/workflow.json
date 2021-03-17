@@ -1,2 +1,26 @@
-json
-"{""name"":""workflows/google_workspace_user_off_boarding"",""title"":""Google Workspace User Off-Boarding"",""description"":""The purpose of this Workflow pack is to perform various tasks in Google Workspace (G Suite) when a given target user is being off-boarded from G Suite or from the organization as a whole."",""connectors"":[""googledirectory"",""googledrive"",""gmail"",""okta"",""googlecalendar""],""details"":{""stashCount"":0,""flowCount"":5},""links"":[{""title"":""Video Walk-through"",""destination"":""""},{""title"":""Setup Documentation"",""destination"":""https://github.com/okta/workflows-templates/blob/master/workflows/workflows/google_workspace_user_off_boarding/readme.md""}]}"
+{
+   "name":"workflows/google_workspace_user_off_boarding",
+   "title":"Google Workspace User Off-Boarding",
+   "description":"The purpose of this Workflow pack is to perform various tasks in Google Workspace (G Suite) when a given target user is being off-boarded from G Suite or from the organization as a whole.",
+   "connectors":[
+      "googledirectory",
+      "googledrive",
+      "gmail",
+      "okta",
+      "googlecalendar"
+   ],
+   "details":{
+      "stashCount":0,
+      "flowCount":5
+   },
+   "links":[
+      {
+         "title":"Video Walk-through",
+         "destination":""
+      },
+      {
+         "title":"Setup Documentation",
+         "destination":"https://github.com/okta/workflows-templates/blob/master/workflows/workflows/google_workspace_user_off_boarding/readme.md"
+      }
+   ]
+}
